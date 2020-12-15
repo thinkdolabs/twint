@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/twintproject/twint
+	branch = master
+	commit = 0f19841b0f2e6456094c6c85b89faf8a0e82f7b1
+	parent = 66d6e4bcb899c5e6535cb5195791fdcda7a6b453
+	method = merge
+	cmdver = 0.4.0
